@@ -1,3 +1,3 @@
-# Podstawy Programowania WIT
+# Podstawy Programowania
 
-Rozwiązania do zadań domowych z podstaw programowania na WIT.
+Rozwiązania zadań domowych z podstaw programowania na WIT.
