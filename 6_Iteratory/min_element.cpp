@@ -4,7 +4,6 @@
 std::vector<int>::iterator min_element(std::vector<int>::iterator b, std::vector<int>::iterator e){
     auto result = b;
     for (b++;  b < e; ++b) {
-        std::cout << *result << " " << *b << "\n";
         if(*b < *result)
             result = b;
     }
